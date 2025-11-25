@@ -2,11 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-22T18:57:55-03:00</lastmod>
+    <loc>https://luisbarcia.com/</loc>
+    <lastmod>2025-11-25T07:23:41-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://luisbarcia.com/search/</loc>
+    <lastmod>2025-11-25T07:23:41-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://luisbarcia.com/archives/</loc>
+  </url><url>
+    <loc>https://luisbarcia.com/categories/</loc>
+  </url><url>
+    <loc>https://luisbarcia.com/tags/</loc>
   </url>
 </urlset>

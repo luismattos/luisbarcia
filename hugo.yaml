@@ -2,3 +2,35 @@ baseURL: https://luisbarcia.com/
 languageCode: en-us
 title: Luis Barcia
 theme: ["PaperMod"]
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+params:
+  defaultTheme: auto
+
+  homeInfoParams:
+    Title: 𝓦𝓮𝓵𝓬𝓸𝓂𝓮
+    Content: Can be Info, links, about...
+
+  socialIcons: # optional
+    - name: KoFi
+      title: Buy me a Ko-Fi :)
+      url: "https://ko-fi.com/luisbarcia"
+    - name: "Mastodon"
+      url: "http://mastodon.social/@luisbarcia"
+    - name: "Github"
+      url: "https://github.com/luismattos"
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
