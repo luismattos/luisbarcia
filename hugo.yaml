@@ -1,6 +1,6 @@
-baseURL: https://luisbarcia.com/
+baseURL: http://localhost:1313/
 languageCode: en-us
-title: Luis Barcia
+title: Barcia
 theme: ["PaperMod"]
 
 outputs:
@@ -9,21 +9,92 @@ outputs:
     - RSS
     - JSON # necessary for search
 
-params:
-  defaultTheme: auto
+menu:
+  main:
+    - identifier: playground
+      name: Playground
+      url: /playground/
+      weight: 1
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: archives
+      name: Post
+      url: /archives/
+      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 15
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 20
+    - identifier: categories
+      name: Cats
+      url: /categories/
+      weight: 30
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 40
+    - identifier: badges
+      name: Ⓑ
+      url: /badges/
+      weight: 50
+    - identifier: donations
+      name: $
+      url: /donations/
+      weight: 60
+    - identifier: tos
+      name: §
+      url: /tos/
+      weight: 70
+    - identifier: rss
+      name: Rss
+      url: /atom.xls/
+      weight: 80
 
+params:
   homeInfoParams:
     Title: 𝓦𝓮𝓵𝓬𝓸𝓂𝓮
-    Content: Can be Info, links, about...
+    Content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed ligula felis. Integer auctor lectus et auctor tincidunt. Ut convallis magna et ipsum lobortis, id viverra quam imperdiet. Donec ligula magna, bibendum a ligula nec, eleifend pulvinar sapien. Nulla accumsan nulla at elit pellentesque, sed venenatis sem facilisis. Donec vestibulum, augue ut vehicula sagittis, orci arcu venenatis velit, nec gravida mi nisl ut tortor. Pellentesque porta eleifend lacinia. Ut consectetur, nunc non ornare malesuada, magna elit eleifend enim, eu vulputate dui libero non lorem. In hac habitasse platea dictumst. Vestibulum molestie ligula libero.
 
-  socialIcons: # optional
+  socialIcons:
+    - name: "GitHub"
+      title: Barcia on GitHub
+      url: "https://github.com/luismattos"
+    - name: "GitLab"
+      title: Barcia on GitLab
+      url: "https://gitlab.com/luismattos89"
+    - name: "Reddit"
+      title: Barcia on Reddit
+      url: "https://www.reddit.com/"
+    - name: "Mastodon"
+      title: Barcia on Mastodon
+      url: "http://mastodon.social/@luisbarcia"
+    - name: "Hacker News"
+      title: Barcia on Hacker News
+      url: "https://news.ycombinator.com/user?id=luismattos89"
+    - name: "Steam"
+      title: Barcia on Steam
+      url: "https://steamcommunity.com/id/bHVpc21hdHRvczg5/"
+    - name: "Code Academy"
+      title: Barcia on Code Academy
+      url: "https://www.codecademy.com/profiles/luismattos89"
+    - name: "Matrix"
+      title: Barcia on Matrix
+      url: "https://matrix.to/#/@luismattos:matrix.org"
+    - name: "PGP Key"
+      title: Barcia PGP Key
+      url: ""
+    - name: "Email"
+      title: Mail Me 
+      url: "luismattos89@gmail.com"
     - name: KoFi
       title: Buy me a Ko-Fi :)
       url: "https://ko-fi.com/luisbarcia"
-    - name: "Mastodon"
-      url: "http://mastodon.social/@luisbarcia"
-    - name: "Github"
-      url: "https://github.com/luismattos"
 
   fuseOpts:
     isCaseSensitive: false
@@ -34,3 +105,17 @@ params:
     minMatchCharLength: 0
     # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
+
+  cover:
+    linkFullImages: true
+
+  defaultTheme: auto
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+
+  assets:
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    # safari_pinned_tab: "/safari-pinned-tab.svg"

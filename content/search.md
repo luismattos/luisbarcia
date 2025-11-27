@@ -5,6 +5,5 @@ title: 'Search'
 layout: "search" # necessary for search
 summary: "search"
 placeholder: "placeholder text in search input box"
-# url: "/archive"
 # description: "Description for Search"
 ---

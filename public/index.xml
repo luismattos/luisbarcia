@@ -1,12 +1,80 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Luis Barcia</title>
-    <link>https://luisbarcia.com/</link>
-    <description>Recent content on Luis Barcia</description>
+    <title>Barcia</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Barcia</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Nov 2025 07:23:41 -0300</lastBuildDate>
-    <atom:link href="https://luisbarcia.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Nov 2025 23:38:11 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/tags/</link>
+      <pubDate>Wed, 26 Nov 2025 23:38:11 -0300</pubDate>
+      <guid>http://localhost:1313/tags/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/tos/</link>
+      <pubDate>Wed, 26 Nov 2025 21:48:59 -0300</pubDate>
+      <guid>http://localhost:1313/tos/</guid>
+      <description>&lt;p&gt;On this page you can find Terms Of Service, Privacy Policy and Disclaimer. Mostly stuff that nobody reads. I guess you also don’t give a fu*k, but it looks good here, I tried to make it as clear as possible.&lt;/p&gt;
+&lt;p&gt;Effective Date: 19-03-2018&lt;/p&gt;
+&lt;p&gt;Last Updated: 16-08-2024&lt;/p&gt;
+&lt;h2 id=&#34;terms-of-service&#34;&gt;Terms of Service&lt;/h2&gt;
+&lt;p&gt;By using my website, you agree to abide by these terms of service.&lt;/p&gt;
+&lt;p&gt;Cookies - Website use cookies in accordance with my privacy policy to enhance user experience.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/donations/</link>
+      <pubDate>Wed, 26 Nov 2025 21:48:18 -0300</pubDate>
+      <guid>http://localhost:1313/donations/</guid>
+      <description>&lt;p&gt;At the end of the day, it’s always about the money…&lt;/p&gt;
+&lt;p&gt;If you like what I am doing on the internet - my articles, websites, tutorials, projects and other stuff - you can support my work. This will help me to realise my ideas and help me to spend more time developing the site and projects.&lt;/p&gt;
+&lt;p&gt;All financial donations will go towards server maintenance first, then coffee and donuts!&lt;/p&gt;
+&lt;p&gt;I do not want to overwhelm people with ads and pop-ups. It is not meant to work that way. If you want to support the site, you will do so voluntarily, not by wading through ads to get what you want.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/badges/</link>
+      <pubDate>Wed, 26 Nov 2025 21:48:01 -0300</pubDate>
+      <guid>http://localhost:1313/badges/</guid>
+      <description>&lt;p&gt;Here you can find my other profiles and badges, from various systems or backlinks to other websites. Links from the manual and automatic exchange, and some crazy systems that require such a link for some magical matters related to SEO, etc. Feel free to explore them, maybe by accident you will find something that will be useful to you or interest you. There is also a list of certifications that I did because I found them interesting and that helped me in my career. You may find some of them interesting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/categories/</link>
+      <pubDate>Wed, 26 Nov 2025 21:47:36 -0300</pubDate>
+      <guid>http://localhost:1313/categories/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Wed, 26 Nov 2025 21:47:16 -0300</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/archives/</link>
+      <pubDate>Wed, 26 Nov 2025 21:45:16 -0300</pubDate>
+      <guid>http://localhost:1313/archives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Playground</title>
+      <link>http://localhost:1313/playground/</link>
+      <pubDate>Wed, 26 Nov 2025 21:38:29 -0300</pubDate>
+      <guid>http://localhost:1313/playground/</guid>
+      <description>&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/profile-img.png#center&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;Oi&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
