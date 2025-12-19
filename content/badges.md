@@ -9,7 +9,7 @@ Aqui você encontra certificações, tecnologias que uso, e estatísticas do meu
 
 ## Certificações
 
-<a href="/certs/mastering-web3-unic-2025.pdf" target="_blank"><strong>Mastering Web3</strong></a>: Curso introdutório sobre tecnologias blockchain, moedas digitais descentralizadas e o ecossistema Web3. Abrange história e fundamentos teóricos da descentralização, princípios tecnológicos de blockchain e criptomoedas, NFTs e ativos tokenizados, DeFi, CBDCs e Metaverso. UNIC - University of Nicosia | Janeiro 2025 | Nota: 96.67
+<a href="/certs/certificate_mastering-web3_university-of-nicosia.pdf" target="_blank"><strong>Mastering Web3</strong></a>: Curso introdutório sobre tecnologias blockchain, moedas digitais descentralizadas e o ecossistema Web3. Abrange história e fundamentos teóricos da descentralização, princípios tecnológicos de blockchain e criptomoedas, NFTs e ativos tokenizados, DeFi, CBDCs e Metaverso. UNIC - University of Nicosia | Janeiro 2025 | Nota: 96.67
 
 ## Tech Stack
 
