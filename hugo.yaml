@@ -1,7 +1,7 @@
 baseURL: http://localhost:1313/
-languageCode: pt-br
+languageCode: en-us
 title: Barcia
-description: "Site pessoal e profissional de Luis Barcia. Automação de processos, Power Automate, APIs, integrações e um pouco de vida pessoal."
+description: "Personal and professional website of Luis Barcia. Process automation, Power Automate, APIs, integrations and a bit of personal life."
 author: Luis Barcia
 theme: ["PaperMod"]
 
@@ -63,20 +63,20 @@ params:
   homeInfoParams:
     Title: 𝓦𝓮𝓵𝓬𝓸𝓶𝓮
     Content: |
-      Este é meu espaço pessoal e profissional na web — um lugar onde junto um pouco de tudo que me interessa.
+      This is my personal and professional space on the web — a place where I bring together a bit of everything that interests me.
 
-      No lado profissional, trabalho com automação de processos, Power Automate, APIs e integrações.
-      Por aqui você vai encontrar projetos em que estou trabalhando, artigos sobre o que venho aprendendo,
-      e talvez algumas opiniões sobre tecnologia em geral.
+      On the professional side, I work with process automation, Power Automate, APIs and integrations.
+      Here you'll find projects I'm working on, articles about what I've been learning,
+      and maybe some opinions on technology in general.
 
-      No lado pessoal, sou carioca, flamenguista, e curto um bom samba e churrasco.
-      Vez ou outra isso também aparece por aqui — afinal, a vida não é só código.
+      On the personal side, I'm from Rio de Janeiro, a Flamengo fan, and I enjoy samba and barbecue.
+      Every now and then that shows up here too — after all, life isn't just code.
 
-      Sinta-se à vontade para explorar o site, ler os posts, conhecer os projetos,
-      ou simplesmente dar uma olhada no que tem por aí. Se quiser trocar uma ideia,
-      os links de contato estão espalhados pelo site.
+      Feel free to explore the site, read the posts, check out the projects,
+      or just take a look around. If you want to chat,
+      contact links are scattered throughout the site.
 
-      Seja bem-vindo, e boa navegação.
+      Welcome, and happy browsing.
 
   socialIcons:
     - name: "GitHub"

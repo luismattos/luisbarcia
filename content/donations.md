@@ -5,46 +5,46 @@ title: 'Donations'
 url: "/donations/"
 ---
 
-Se você curte o que faço por aqui — os artigos, projetos, tutoriais ou qualquer outro conteúdo — pode apoiar meu trabalho. Isso me ajuda a manter o site no ar e dedicar mais tempo criando coisas úteis.
+If you enjoy what I do here — the articles, projects, tutorials or any other content — you can support my work. It helps me keep the site running and dedicate more time to creating useful stuff.
 
-Não gosto de encher o site de anúncios e pop-ups. Prefiro que o apoio seja voluntário, de quem realmente quer contribuir.
+I don't like filling the site with ads and pop-ups. I prefer support to be voluntary, from those who really want to contribute.
 
-## Doação única
+## One-time donation
 
 ### Ko-fi
 
-A forma mais simples de apoiar. Sem taxas, direto pro café.
+The simplest way to support. No fees, straight to the coffee fund.
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/luisbarcia)
 
 ### Pix
 
-Se preferir, pode mandar um Pix:
+If you prefer, you can send a Pix (Brazil only):
 
-`CHAVE_PIX_AQUI`
+`PIX_KEY_HERE`
 
 ### Crypto
 
 **Monero (XMR)**
 
-`SEU_ENDERECO_XMR`
+`YOUR_XMR_ADDRESS`
 
 **Bitcoin (BTC)**
 
-`SEU_ENDERECO_BTC`
+`YOUR_BTC_ADDRESS`
 
-## Doação recorrente
+## Recurring donation
 
-Se quiser apoiar de forma contínua, o Liberapay permite doações recorrentes que ajudam a manter um suporte estável.
+If you want to support on an ongoing basis, Liberapay allows recurring donations that help maintain stable support.
 
-[Apoiar no Liberapay](https://liberapay.com/SEU_USUARIO)
+[Support on Liberapay](https://liberapay.com/YOUR_USERNAME)
 
 ## Referring links
 
-Outra forma de apoiar é usando meus links de referência para serviços que uso. Não custa nada a mais pra você e me dá um pequeno retorno.
+Another way to support is by using my referral links for services I use. It costs you nothing extra and gives me a small return.
 
-<!-- Adicione seus referral links aqui -->
+<!-- Add your referral links here -->
 
 ---
 
-Qualquer valor ajuda. Valeu!
+Every bit helps. Thanks!

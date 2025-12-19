@@ -5,11 +5,11 @@ title: 'Badges'
 url: "/badges/"
 ---
 
-Aqui você encontra certificações, tecnologias que uso, e estatísticas do meu GitHub.
+Here you can find certifications, technologies I use, and my GitHub stats.
 
-## Certificações
+## Certifications
 
-<a href="/certs/certificate_mastering-web3_university-of-nicosia.pdf" target="_blank"><strong>Mastering Web3</strong></a>: Curso introdutório sobre tecnologias blockchain, moedas digitais descentralizadas e o ecossistema Web3. Abrange história e fundamentos teóricos da descentralização, princípios tecnológicos de blockchain e criptomoedas, NFTs e ativos tokenizados, DeFi, CBDCs e Metaverso. UNIC - University of Nicosia | Janeiro 2025 | Nota: 96.67
+<a href="/certs/certificate_mastering-web3_university-of-nicosia.pdf" target="_blank"><strong>Mastering Web3</strong></a>: Introductory course on blockchain technologies, decentralized digital currencies and the Web3 ecosystem. Covers history and theoretical foundations of decentralization, technological principles of blockchain and cryptocurrencies, NFTs and tokenized assets, DeFi, CBDCs and Metaverse. UNIC - University of Nicosia | January 2025 | Score: 96.67
 
 ## Tech Stack
 
