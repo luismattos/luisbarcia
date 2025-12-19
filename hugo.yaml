@@ -3,6 +3,11 @@ languageCode: en-us
 title: Barcia
 theme: ["PaperMod"]
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 outputs:
   home:
     - HTML
