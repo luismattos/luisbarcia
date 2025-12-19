@@ -97,9 +97,9 @@ params:
     - name: "Steam"
       title: Barcia on Steam
       url: "https://steamcommunity.com/id/bHVpc21hdHRvczg5/"
-    - name: "Code Academy"
-      title: Barcia on Code Academy
-      url: "https://www.codecademy.com/profiles/luismattos89"
+    - name: "Rocketseat"
+      title: Barcia on Rocketseat
+      url: "https://app.rocketseat.com.br/rocketid/luisbarcia"
     - name: "Matrix"
       title: Barcia on Matrix
       url: "https://matrix.to/#/@luismattos:matrix.org"
