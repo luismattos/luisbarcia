@@ -7,9 +7,9 @@ url: "/tos/"
 
 On this page you can find Terms Of Service, Privacy Policy and Disclaimer. Mostly stuff that nobody reads. I guess you also don’t give a fu*k, but it looks good here, I tried to make it as clear as possible.
 
-Effective Date: 19-03-2018
+Effective Date: 19-12-2025
 
-Last Updated: 16-08-2024
+Last Updated: 19-12-2025
 
 ## Terms of Service
 
@@ -17,7 +17,7 @@ By using my website, you agree to abide by these terms of service.
 
 Cookies - Website use cookies in accordance with my privacy policy to enhance user experience.
 
-License - You may view and print content from 0ut3r.space for personal use only.
+License - You may view and print content from Barcia for personal use only.
 
 User Comments - I do not currently accept user comments. Any future comment system will be subject to additional terms.
 
@@ -33,7 +33,7 @@ Updates - The last update date indicates changes to these terms. I do not send n
 
 ## Privacy Policy
 
-Your Privacy Matters - At 0ut3r Space, I value your privacy and I am committed to safeguarding your personally identifiable information collected through my website.
+Your Privacy Matters - At Barcia, I value your privacy and I am committed to safeguarding your personally identifiable information collected through my website.
 
 Information Collection - I collect non-personally identifying information, such as browser type and visitor behavior, to understand and improve user experience. I also collect IP addresses for visitors, using this data solely for website improvement purposes.
 
@@ -53,7 +53,7 @@ Privacy Policy Changes - I may update my Privacy Policy periodically. Visitors a
 
 ## Disclaimer
 
-The information provided on 0ut3r.space is for general informational purposes only. While I strive to ensure accuracy, I make no representations or warranties of any kind regarding the completeness, accuracy, reliability, or suitability of the information. Your use of the website and reliance on any information is at your own risk.
+The information provided on Barcia is for general informational purposes only. While I strive to ensure accuracy, I make no representations or warranties of any kind regarding the completeness, accuracy, reliability, or suitability of the information. Your use of the website and reliance on any information is at your own risk.
 
 Consent - By using the Website, you consent to this Disclaimer and agree to its terms. I am not liable for any damages resulting from the use of our Website.
 
@@ -65,4 +65,4 @@ Fair Use Notice - Some content on the Website may be copyrighted material used u
 
 Personal Responsibility - Your use of the Website and any actions taken are your own responsibility. I am are not liable for any decisions made or actions taken based on the information provided on the Website.
 
-Copyright Information COPYRIGHT ≥2018 0ut3r Space. ALL RIGHTS RESERVED.
+Copyright Information COPYRIGHT ©2025 Barcia. ALL RIGHTS RESERVED.

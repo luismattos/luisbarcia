@@ -52,14 +52,28 @@ menu:
       url: /tos/
       weight: 70
     - identifier: rss
-      name: Rss
-      url: /atom.xls/
+      name: RSS
+      url: /index.xml
       weight: 80
 
 params:
   homeInfoParams:
-    Title: 𝓦𝓮𝓵𝓬𝓸𝓂𝓮
-    Content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed ligula felis. Integer auctor lectus et auctor tincidunt. Ut convallis magna et ipsum lobortis, id viverra quam imperdiet. Donec ligula magna, bibendum a ligula nec, eleifend pulvinar sapien. Nulla accumsan nulla at elit pellentesque, sed venenatis sem facilisis. Donec vestibulum, augue ut vehicula sagittis, orci arcu venenatis velit, nec gravida mi nisl ut tortor. Pellentesque porta eleifend lacinia. Ut consectetur, nunc non ornare malesuada, magna elit eleifend enim, eu vulputate dui libero non lorem. In hac habitasse platea dictumst. Vestibulum molestie ligula libero.
+    Title: 𝓦𝓮𝓵𝓬𝓸𝓶𝓮
+    Content: |
+      Este é meu espaço pessoal e profissional na web — um lugar onde junto um pouco de tudo que me interessa.
+
+      No lado profissional, trabalho com automação de processos, Power Automate, APIs e integrações.
+      Por aqui você vai encontrar projetos em que estou trabalhando, artigos sobre o que venho aprendendo,
+      e talvez algumas opiniões sobre tecnologia em geral.
+
+      No lado pessoal, sou carioca, flamenguista, e curto um bom samba e churrasco.
+      Vez ou outra isso também aparece por aqui — afinal, a vida não é só código.
+
+      Sinta-se à vontade para explorar o site, ler os posts, conhecer os projetos,
+      ou simplesmente dar uma olhada no que tem por aí. Se quiser trocar uma ideia,
+      os links de contato estão espalhados pelo site.
+
+      Seja bem-vindo, e boa navegação.
 
   socialIcons:
     - name: "GitHub"
