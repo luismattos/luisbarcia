@@ -5,13 +5,21 @@ title: 'Badges'
 url: "/badges/"
 ---
 
-Here you can find certifications, technologies I use, and my GitHub stats.
+Here you can find my profiles, badges, certifications and backlinks.
 
-## Certifications
+### # Profiles
 
-<a href="/certs/certificate_mastering-web3_university-of-nicosia.pdf" target="_blank"><strong>Mastering Web3</strong></a>: Introductory course on blockchain technologies, decentralized digital currencies and the Web3 ecosystem. Covers history and theoretical foundations of decentralization, technological principles of blockchain and cryptocurrencies, NFTs and tokenized assets, DeFi, CBDCs and Metaverse. UNIC - University of Nicosia | January 2025 | Score: 96.67
+#### Stats
 
-## Tech Stack
+<div style="clear: both;">
+  <div style="float: left; margin-right: 10px;"><img src="https://github-readme-stats.vercel.app/api?username=luismattos&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="350"></div>
+  <div style="float: left; margin-right: 10px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismattos&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" width="250"></div>
+</div>
+<div style="clear: both;"></div>
+
+---
+
+### # Badges
 
 <div style="clear: both;">
   <div style="float: left; margin-right: 5px;"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></div>
@@ -33,10 +41,14 @@ Here you can find certifications, technologies I use, and my GitHub stats.
 </div>
 <div style="clear: both;"></div>
 
-## GitHub Stats
+---
 
-<div style="clear: both;">
-  <div style="float: left; margin-right: 10px;"><img src="https://github-readme-stats.vercel.app/api?username=luismattos&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="350"></div>
-  <div style="float: left; margin-right: 10px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismattos&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" width="250"></div>
-</div>
-<div style="clear: both;"></div>
+### # Certs & Courses
+
+<a href="/certs/certificate_mastering-web3_university-of-nicosia.pdf" target="_blank"><strong>Mastering Web3</strong></a> - UNIC - University of Nicosia | January 2025 | Score: 96.67
+
+---
+
+### # Backlinks
+
+<!-- Add your backlinks here -->
