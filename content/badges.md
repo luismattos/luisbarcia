@@ -35,6 +35,8 @@ Here you can find certifications, technologies I use, and my GitHub stats.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luismattos&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luismattos&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+<div style="clear: both;">
+  <div style="float: left; margin-right: 10px;"><img src="https://github-readme-stats.vercel.app/api?username=luismattos&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="350"></div>
+  <div style="float: left; margin-right: 10px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismattos&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" width="250"></div>
+</div>
+<div style="clear: both;"></div>
