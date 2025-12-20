@@ -13,10 +13,25 @@ Here you can find certifications, technologies I use, and my GitHub stats.
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white)
+<div style="clear: both;">
+  <div style="float: left; margin-right: 5px;"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></div>
+  <div style="float: left; margin-right: 5px;"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></div>
+  <div style="float: left; margin-right: 5px;"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></div>
+</div>
+<div style="clear: both;">
+  <div style="float: left; margin-right: 5px;"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></div>
+  <div style="float: left; margin-right: 5px;"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"></div>
+  <div style="float: left; margin-right: 5px;"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></div>
+</div>
+<div style="clear: both;">
+  <div style="float: left; margin-right: 5px;"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></div>
+  <div style="float: left; margin-right: 5px;"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></div>
+  <div style="float: left; margin-right: 5px;"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"></div>
+</div>
+<div style="clear: both;">
+  <div style="float: left; margin-right: 5px;"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></div>
+</div>
+<div style="clear: both;"></div>
 
 ## GitHub Stats
 
